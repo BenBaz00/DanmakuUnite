@@ -1,0 +1,35 @@
+{
+
+  "Dialogues": [
+    {
+      "wave": 1,
+      "EnemyInactive": false,
+      "name": "Tutorial Dan",
+      "sentences": [ "Welcome to the tutorial! Here you will the basic controls of the game.", "Let's start by getting you moving by using the 'arrow' keys." ]
+    },
+    {
+      "wave": 2,
+      "EnemyInactive": false,
+      "name": "Tutorial Dan",
+      "sentences": [ "You can also FOCUS your movement by holding down 'Shift' as you move. Give it a try." ]
+    },
+    {
+      "wave": 3,
+      "EnemyInactive": false,
+      "name": "Tutorial Dan",
+      "sentences": [ "Focused movement will allow for precise control. This is best used to avoid a barrage of bullets.", "It looks like we have an incoming enemy. Fire at it with the 'Z' key while avoiding it's attacks.", "(You are unable to take damage within the tutorial)" ]
+    },
+    {
+      "wave": 4,
+      "EnemyInactive": false,
+      "name": "Tutorial Dan",
+      "sentences": [ "Great work! Under normal circumstances you will take damage when hit by an enemy projectile. This will cause one of your hearts in the top-left to disappear. After being hit you will be given a brief moment of invulerability.", "If all of your health is depleted, your ship will be destroyed." ]
+    },
+    {
+      "wave": 5,
+      "EnemyInactive": false,
+      "name": "Tutorial Dan",
+      "sentences": [ "That is all you need to know to get started! Congratulations of completing the basic controls tutorial." ]
+    }
+  ]
+}
